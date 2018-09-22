@@ -1,13 +1,14 @@
 # #100DaysOfCode
 Daily log of everything I worked on during the #100DaysOfCode challenge
 
-1. Day 1.
-1. Day 2.
-1. Day 3.
-1. Day 4.
-1. Day 5.
-1. Day 6.
-1. Day 7.
-1. Day 8.
-1. Day 9.
-1. Day 10.
+1. DAY 1. Worked through the code examples in The Well-Grounded Rubyist book. You can see my notes at my `well-grounded-rubyist` repo here on GitHub.
+
+1. DAY 2.
+1. DAY 3.
+1. DAY 4.
+1. DAY 5.
+1. DAY 6.
+1. DAY 7.
+1. DAY 8.
+1. DAY 9.
+1. DAY 10.
