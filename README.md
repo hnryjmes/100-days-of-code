@@ -11,7 +11,7 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 5. Continuing with my funrun project from yesterday, about halfway through the video series. Lots of mistakes by me, the usual typos etc, but I feel like I'm getting a tiny bit more experienced with Vue :) plus today I used Vuex for the first time. #100DaysOfCode
 
-1. DAY 6. Today was my first really frustrating day. Nothing wrong with the tutorial, but things to do with Vuex and Firebase have changed significantly in the past year and lots of the tutorial ended up being hard to implement. I'm stopping with this today (~ 80% feature complete) and will do something else tomorrow. #100DaysOfCode
+1. DAY 6. Today was my first really frustrating day. Vuex + Firebase have changed significantly in the past year and lots of the tutorial ended up being hard to implement. I'm stopping with this today (~ 80% feature complete) and will do something else tomorrow. #100DaysOfCode
 
 1. DAY 7.
 1. DAY 8.
