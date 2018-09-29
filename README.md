@@ -13,7 +13,7 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 6. Today was my first really frustrating day. Vuex + Firebase have changed significantly in the past year and lots of the tutorial ended up being hard to implement. I'm stopping with this today (~ 80% feature complete) and will do something else tomorrow. #100DaysOfCode
 
-1. DAY 7. Back to basics. Learning JavaScript unit testing with Jasmine on Udacity. #100DaysOfCode
+1. DAY 7. 
 
 1. DAY 8.
 1. DAY 9.
