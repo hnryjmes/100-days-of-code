@@ -17,5 +17,5 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 8. Weekend... revising the basics again before I start Makers on Monday. Git and GitHub. I want to know how to branch and merge better. This time I've even got [fellow EA, generally amazing person] Sarah Spikes (pictured, left) to help teach it to me! ☺️ #100DaysOfCode
 
-1. DAY 9.
+1. DAY 9. Finished off revising the git course, read through all the documents for @makersacademy onsite starting tomorrow! #100DaysOfCode
 1. DAY 10.
