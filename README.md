@@ -19,4 +19,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 9. Finished off revising the git course, read through all the documents for @makersacademy onsite starting tomorrow! #100DaysOfCode
 
-1. DAY 10. Pair programming. Ruby class methods etc. Fun to see other people's work, as people will often have a different way to solve the same problem. #100DaysOfCode 
+1. DAY 10. Pair programming. Ruby class methods etc. Fun to see other people's work, as people will often have a different way to solve the same problem. #100DaysOfCode
+
+1. DAY 11.
