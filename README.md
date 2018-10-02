@@ -21,4 +21,4 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 10. Pair programming. Ruby class methods etc. Fun to see other people's work, as people will often have a different way to solve the same problem. #100DaysOfCode
 
-1. DAY 11.
+1. DAY 11. Pair programming. Learning about error messages in Ruby! #100DaysOfCode
