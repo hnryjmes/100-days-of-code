@@ -25,4 +25,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 12. Pair programming. Using the ruby gem 'pry' which allows you to do breakpoints in programs etc. Learned a lot about debugging tools. Very useful! #100DaysOfCode
 
-1. DAY 13. 
+1. DAY 13. Pair programming. Getting to know good testing practices like using doubles to isolate unit tests in RSpec; plus more on TDD generally. #100DaysOfCode
+
+1. DAY 14.
