@@ -30,3 +30,7 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 1. DAY 14. Feeling less good today - only had about an hour to code this morning before going home ill. Did more testing with rspec, trying to resist solving the whole problem in one go, but rather let the features you want fall out of the tests you've written. #100DaysOfCode
 
 1. DAY 15. Working on the weekend challenge: test driving the development of a basic CLI air traffic controller system, using object-oriented design principles. First step: using the user stories, nouns, verbs to work out which classes and methods we will need. #100DaysOfCode
+
+1. DAY 16. Still on the airport challenge. Got some basic tests working how I want, now to add some state to each of these classes and track the data flow exactly how I want it. #100DaysOfCode
+
+1. 
