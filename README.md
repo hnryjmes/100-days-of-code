@@ -33,4 +33,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 16. Still on the airport challenge. Got some basic tests working how I want, now to add some state to each of these classes and track the data flow exactly how I want it. #100DaysOfCode
 
-1. 
+1. DAY 17. Pair programming. Focus on test-driven, object-oriented design in Ruby. Building a model of the Transport for London Oyster card system. #100DaysOfCode
+
+1. DAY 18. 
