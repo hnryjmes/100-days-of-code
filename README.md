@@ -35,4 +35,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 17. Pair programming. Focus on test-driven, object-oriented design in Ruby. Building a model of the Transport for London Oyster card system. #100DaysOfCode
 
-1. DAY 18. 
+1. DAY 18. I did more pair programming today, but the thing I want to show is the morning exercise we did on refactoring. Basically, you are given a really messy bit of code (e.g. endlessly chained if-blocks, all code in one method) and you have to refactor. Fun! #100DaysOfCode
+
+1. DAY 19. 
