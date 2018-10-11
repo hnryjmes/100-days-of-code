@@ -39,4 +39,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 19. Refactoring. Learning from Sandi Metz. Same project as yesterday, the gilded rose design project. #100DaysOfCode
 
-1. 
+1. DAY 20. Pair programming. Finishing off our oyster card project, learning about forwarding, inheritance, encapsulation, SRP etc. #100DaysOfCode
+
+1.
