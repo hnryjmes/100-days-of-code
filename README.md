@@ -41,4 +41,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 20. Pair programming. Finishing off our oyster card project, learning about forwarding, inheritance, encapsulation, SRP etc. #100DaysOfCode
 
+1. DAY 21. Getting started on the weekend challenge: test-drive and build a takeaway app that uses the Twilio API to send a text message. Also brushing up on my regex... #100DaysOfCode 
+
 1.
