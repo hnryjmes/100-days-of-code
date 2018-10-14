@@ -45,4 +45,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 22. Weekend challenge: more on my takeaway app. Getting to know the ruby Time class! And trying not to get notification texts every time I run rspec... #100DaysOfCode
 
+1. DAY 23. Slightly more frustration, tests are passing, just trying to work out why my test coverage is so low.. #100DaysOfCode
+
 1. 
