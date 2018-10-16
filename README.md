@@ -49,4 +49,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 24. Pairing on code review of our weekend projects using GitHub. Getting feedback on your code from others is so valuable, especially in this group environment where you can see how different solutions to the same problem can be. #100DaysOfCode
 
+1. DAY 25. Learning about HTTP, testing web apps with Capybara. #100DaysOfCode
+
 1. 
