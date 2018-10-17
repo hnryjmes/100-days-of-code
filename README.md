@@ -51,4 +51,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 25. Learning about HTTP, testing web apps with Capybara. #100DaysOfCode
 
+1. DAY 26. Pair programming. Building and testing our battle web app with Capybara, mixing in some of our object-oriented design knowledge as well. #100DaysOfCode
+
 1. 
