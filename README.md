@@ -55,4 +55,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 27. Finishing off the web app, switching turns, random damage etc. Thinking about an even bigger web app for this weekend challenge! #100DaysOfCode
 
+1. DAY 28. Starting the weekend challenge. Who knew rock paper scissors would make such a good web development kata? Really gets you to think about separation of concerns, where to handle business logic etc. #100DaysOfCode
+
 1. 
