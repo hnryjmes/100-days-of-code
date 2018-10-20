@@ -57,4 +57,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 28. Starting the weekend challenge. Who knew rock paper scissors would make such a good web development kata? Really gets you to think about separation of concerns, where to handle business logic etc. #100DaysOfCode
 
+1. DAY 29. Tests passing on my rock paper scissors weekend challenge project. Time to work on the multiplayer feature! #100DaysOfCode
+
 1. 
