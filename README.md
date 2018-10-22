@@ -59,4 +59,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 29. Tests passing on my rock paper scissors weekend challenge project. Time to work on the multiplayer feature! #100DaysOfCode
 
+1. DAY 30. Adding some screenshots to my weekend project repository before building my pull request. Writing a README is much easier if you do some of it before the project starts, like I actually did this time! #100DaysOfCode
+
 1. 
