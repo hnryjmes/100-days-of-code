@@ -61,4 +61,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 30. Adding some screenshots to my weekend project repository before building my pull request. Writing a README is much easier if you do some of it before the project starts, like I actually did this time! #100DaysOfCode
 
-1. 
+1. DAY 31. Went to a TensorFlow.js workshop and trained a neural network in JavaScript! This is sort of not copy and pasted... #100DaysOfCode
+
+1.
