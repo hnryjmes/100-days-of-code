@@ -63,4 +63,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 31. Went to a TensorFlow.js workshop (by @AiJavaScript) and trained a neural network in JavaScript! This is sort of not copy and pasted... #100DaysOfCode
 
-1.
+1. DAY 32. Learning how to work with databases in Ruby using PostgreSQL. But first, brushing up on my SQL query knowledge... #100DaysOfCode
+
+1. 
