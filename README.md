@@ -67,4 +67,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 33. Accessing a SQL database using TablePlus for Mac OS X; building a daily diary app. #100DaysOfCode
 
+1. DAY 34. Bookmark manager app - learning basic CRUD (create, read, update, delete) using Ruby/Sinatra. #100DaysOfCode
+
 1. 
