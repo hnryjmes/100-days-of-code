@@ -69,4 +69,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 34. Bookmark manager app - learning basic CRUD (create, read, update, delete) using Ruby/Sinatra. #100DaysOfCode
 
+1. DAY 35. Modelling the request/response cycle for bookmark manager. Getting used to UML-style modelling which is pretty fun but a little bit fiddly... #100DaysOfCode
+
 1. 
