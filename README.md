@@ -71,4 +71,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 35. Modelling the request/response cycle for bookmark manager. Getting used to UML-style modelling which is pretty fun but a little bit fiddly... #100DaysOfCode
 
+1. DAY 36. Working on some CSS for my twitter clone; writing log in, log out, and sign up methods. #100DaysOfCode
+
 1. 
