@@ -73,4 +73,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 36. Working on some CSS for my twitter clone; writing log in, log out, and sign up methods. #100DaysOfCode
 
+1. DAY 37. Trying to finish my unit tests so I can submit a pull request and dash off to the EA Global conference. Only 50% feature complete but I'm proud of the work I've been able to do. #100DaysOfCode
+
 1. 
