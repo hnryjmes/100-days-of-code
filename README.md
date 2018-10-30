@@ -77,4 +77,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 38. Peer review of the weekend challenge. Getting used to rake, rakefiles, ORMs, setting up databases consistently in other environments. #100DaysOfCode
 
+1. DAY 39. Trying out JavaScript in @code. Currently rewriting the airport challenge from week 1, test-driving in Jasmine. #100DaysOfCode
+
 1. 
