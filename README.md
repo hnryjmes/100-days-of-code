@@ -81,4 +81,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 40. Using Chrome Dev Tools. Today, we had an exercise to debug a broken version of FizzBuzz in JS. Getting visibility and following the flow! #100DaysOfCode
 
+1. DAY 41. Building a thermostat app in JS and basic manipulation of HTML elements using jQuery. Also using the OpenWeatherMap API to search for a city and display the temperature to the user. #100DaysOfCode
+
 1. 
