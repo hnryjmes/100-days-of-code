@@ -83,4 +83,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 41. Building a thermostat app in JS and basic manipulation of HTML elements using jQuery. Also using the OpenWeatherMap API to search for a city and display the temperature to the user. #100DaysOfCode
 
+1. DAY 42. Friday morning tech test: rapidly learning a new language. Writing a test-driven FizzBuzz program in Java using JUnit. A work in progress... #100DaysOfCode
+
 1. 
