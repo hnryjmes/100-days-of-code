@@ -85,4 +85,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 42. Friday morning tech test: rapidly learning a new language. Writing a test-driven FizzBuzz program in Java using JUnit. A work in progress... #100DaysOfCode
 
+1. DAY 43. Weekend challenge: build a full bowling scorecard in JS plus frontend, using TDD principles and object-oriented design. Will be interesting to see if others go for one large Game class (me, atm) or if they have lots of small single-responsibility classes. #100DaysOfCode
+
 1. 
