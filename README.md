@@ -87,4 +87,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 43. Weekend challenge: build a full bowling scorecard in JS plus frontend, using TDD principles and object-oriented design. Will be interesting to see if others go for one large Game class (me, atm) or if they have lots of small single-responsibility classes. #100DaysOfCode
 
+1. DAY 44. Taking a break from the weekend challenge after an 8+ hour session yesterday. Playing around with learning TDD in React! Struggling with npm... but I got this far at least. #100DaysOfCode
+
 1. 
