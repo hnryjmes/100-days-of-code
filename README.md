@@ -91,4 +91,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 45. First team project: build an Airbnb clone. Getting used to Git, merges, branches, and pull requests. Our team decided to use Ruby/Sinatra again for a shorter time to MVP. #100DaysOfCode
 
-1.
+1. DAY 46. More team project. Done the minimum viable product, a little CSS, some more database code, onto the remaining features. Working in a team is harder than expected, especially communicating and listening effectively! #100DaysOfCode
+
+1. 
