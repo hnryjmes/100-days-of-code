@@ -95,4 +95,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 47. Better day, better teamwork, despite a few personal struggles. Most of the basic user stories done, but still so much more left to go before this feels like a real app. #100DaysOfCode
 
+1. DAY 48. Finished off main user stories we wanted ready for a feature freeze tomorrow. Today really felt like we looked after each other emotionally as well as supported each other with our work. Better teamwork does come through practice. #100DaysOfCode
+
 1. 
