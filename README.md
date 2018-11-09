@@ -97,4 +97,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 48. Finished off main user stories we wanted ready for a feature freeze tomorrow. Today really felt like we looked after each other emotionally as well as supported each other with our work. Better teamwork does come through practice. #100DaysOfCode
 
-1. 
+1. DAY 49. Finishing touches. Some CSS, retrospectives, writing up our process. Proud of how much we managed to get done in a week, especially given none of us had any prior experience building software in a team. #100DaysOfCode
+
+1.
