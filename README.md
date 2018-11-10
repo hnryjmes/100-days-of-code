@@ -99,4 +99,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 49. Finishing touches. Some CSS, retrospectives, writing up our process. Proud of how much we managed to get done in a week, especially given none of us had any prior experience building software in a team. #100DaysOfCode
 
-1.
+1. DAY 50. Back to the bowling challenge from last weekend. Trying again for the third time to rewrite it from scratch so that the code is actually clean(!) #100DaysOfCode
+
+1. 
