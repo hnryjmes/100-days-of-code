@@ -101,4 +101,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 50. Back to the bowling challenge from last weekend. Trying again for the third time to rewrite it from scratch so that the code is actually clean(!) #100DaysOfCode
 
+1. DAY 51. Getting to know Node.js. Eventually, I'll be able to write a server that can do stuff, right? For now, I'm just watching videos and considering doing the 'build an HTTP server' side project. #100DaysOfCode
+
 1. 
