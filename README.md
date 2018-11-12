@@ -103,4 +103,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 51. Getting to know Node.js. Eventually, I'll be able to write a server that can do stuff, right? For now, I'm just watching videos and considering doing the 'build an HTTP server' side project. #100DaysOfCode
 
+1. DAY 52. JavaScript week again! Getting to grips with some more advanced language features, reading Eloquent JavaScript, test-driving a single page notes app in vanilla JS. #100DaysOfCode
+
 1. 
