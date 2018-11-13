@@ -105,4 +105,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 52. JavaScript week again! Getting to grips with some more advanced language features, reading Eloquent JavaScript, test-driving a single page notes app in vanilla JS. #100DaysOfCode
 
+1. DAY 53. I've said 'vanilla JS' a lot recently. What's vanilla about it? It can do so much! Also, I love vanilla... Today I'm working on a Tic Tac Toe game, maybe with an AI. We'll see how far I get! #100DaysOfCode
+
 1. 
