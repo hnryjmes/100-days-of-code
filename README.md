@@ -107,4 +107,8 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 53. I've said 'vanilla JS' a lot recently. What's vanilla about it? It can do so much! Also, I love vanilla... Today I'm working on a Tic Tac Toe game, maybe with an AI. We'll see how far I get! #100DaysOfCode
 
+1. DAY 54. Got the minimax algorithm working. It recursively searches through all possible moves so the AI always wins. Thanks to @CarnesBeau/@freeCodeCamp for the helpful video! Next step: delete all code and rewrite from scratch using TDD. #100DaysOfCode
+
+1. DAY 55. Writing a notes app in JS, with a homemade JS test suite that runs in Chrome DevTools. Useful stuff for understanding single page applications and RESTful hash routing. #100DaysOfCode
+
 1. 
