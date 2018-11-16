@@ -111,4 +111,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 55. Writing a notes app in JS, with a homemade JS test suite that runs in Chrome DevTools. Useful stuff for understanding single page applications and RESTful hash routing. #100DaysOfCode
 
+1. DAY 56. Preparing to do the weekend challenge, making a news summary app that uses the Guardian News API. Trying to learn ES6 syntax at the same time, and how to keep ESLint happy... #100DaysOfCode
+
 1. 
