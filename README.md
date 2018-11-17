@@ -113,4 +113,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 56. Preparing to do the weekend challenge, making a news summary app that uses the Guardian News API. Trying to learn ES6 syntax at the same time, and how to keep ESLint happy... #100DaysOfCode
 
+1. DAY 57. Learning by doing. What's CORS? Finding out through failure. Will I get my second API request to work before the end of the weekend? Seeing red... #100DaysOfCode
+
 1. 
