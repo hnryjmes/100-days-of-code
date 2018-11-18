@@ -115,4 +115,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 57. Learning by doing. What's CORS? Finding out through failure. Will I get my second API request to work before the end of the weekend? Seeing red... #100DaysOfCode
 
+1. DAY 58. Making a Hacker News clone through test-driven development in vanilla JS! Trying to make a mental model of when the fetch requests to the APIs should run, how to make the page load quicker... I almost feel like a real web developer, lol. #100DaysOfCode
+
 1. 
