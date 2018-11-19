@@ -117,4 +117,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 58. Making a Hacker News clone through test-driven development in vanilla JS! Trying to make a mental model of when the fetch requests to the APIs should run, how to make the page load quicker... I almost feel like a real web developer, lol. #100DaysOfCode
 
+1. DAY 59. Day one of ten of our two-week engineering project at @makersacademy. Building a Facebook clone using Ruby on Rails. First step: get familiar with Rails, get familiar with the project directory. This will be our last team project before final projects! #100DaysOfCode
+
 1. 
