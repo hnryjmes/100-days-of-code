@@ -119,4 +119,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 59. Day one of ten of our two-week engineering project at @makersacademy. Building a Facebook clone using Ruby on Rails. First step: get familiar with Rails, get familiar with the project directory. This will be our last team project before final projects! #100DaysOfCode
 
+1. DAY 60. Another team day. It's been a significant change from our normal development style of understanding every piece of code as we go along. There's so much syntactic sugar in Rails it's difficult to say what's going on under the hood sometimes. #100DaysOfCode
+
 1. 
