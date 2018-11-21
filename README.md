@@ -121,4 +121,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 60. Another team day. It's been a significant change from our normal development style of understanding every piece of code as we go along. There's so much syntactic sugar in Rails it's difficult to say what's going on under the hood sometimes. #100DaysOfCode
 
+1. DAY 61. Adding bootstrap, some CSS, navbar etc. Still working using agile methodology, ticking off things on our waffle.io board. Starting to look a tiny bit like a real app... #100DaysOfCode
+
 1. 
