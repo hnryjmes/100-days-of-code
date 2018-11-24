@@ -125,4 +125,8 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 62. Not quite at banging head against wall phase, but getting there... trying to understand routes and controllers in Ruby on Rails and failing. I think we need to take a break and do some reading until we understand it more... #100DaysOfCode
 
+1. DAY 63. Fixed our problems from yesterday! Like feature implemented without refreshing the page :) #100DaysOfCode
+
+1. DAY 64. I'm interested in how I might explore RL through research. Advice I've heard: try to replicate code from a recent paper or build something, rather than textbook learning. Maybe I'm not able to do that just yet, but reading papers regularly is a good start! #100DaysOfCode
+
 1. 
