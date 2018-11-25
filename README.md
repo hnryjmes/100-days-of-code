@@ -129,4 +129,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 64. I'm interested in how I might explore RL through research. Advice I've heard: try to replicate code from a recent paper or build something, rather than textbook learning. Maybe I'm not able to do that just yet, but reading papers regularly is a good start! #100DaysOfCode
 
+1. DAY 65. Using the weekend to consolidate what we've learned in the week, esp. routing in Rails. Also writing my Viva Thesis and preparing CV, both for Makers careers team. Mainly reading and writing today. #100DaysOfCode
+
 1. 
