@@ -131,4 +131,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 65. Using the weekend to consolidate what we've learned in the week, esp. routing in Rails. Also writing my Viva Thesis and preparing CV, both for Makers careers team. Mainly reading and writing today. #100DaysOfCode
 
+1. DAY 66. Migrating our app to use AWS. Some problems to say the least... #100DaysOfCode
+
 1. 
