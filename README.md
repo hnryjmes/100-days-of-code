@@ -133,4 +133,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 66. Migrating our app to use AWS. Some problems to say the least... #100DaysOfCode
 
+1. DAY 67. The second day of our AWS migration challenge. By the end of the day, we are meant to have migrated our database and production URL from Heroku to AWS Elastic Beanstalk. Still not working, in a maze of errors and configuration problems. #100DaysOfCode
+
 1. 
