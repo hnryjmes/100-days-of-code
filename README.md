@@ -135,4 +135,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 67. The second day of our AWS migration challenge. By the end of the day, we are meant to have migrated our database and production URL from Heroku to AWS Elastic Beanstalk. Still not working, in a maze of errors and configuration problems. #100DaysOfCode
 
+1. DAY 68. Migration to AWS successful! EB is working, running our RoR Acebook project. Two days of hard work to get there! New problem: the default EB load balancer doesn't support Action Cable/WebSockets which we need for our Live Chat. It never ends 😅 #100DaysOfCode
+
 1. 
