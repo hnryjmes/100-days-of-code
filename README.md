@@ -137,4 +137,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 68. Migration to AWS successful! EB is working, running our RoR Acebook project. Two days of hard work to get there! New problem: the default EB load balancer doesn't support Action Cable/WebSockets which we need for our Live Chat. It never ends 😅 #100DaysOfCode
 
+1. DAY 69. Migrating back to Heroku, AWS EB was too hard for us to configure and it kept breaking. After trying 100x to fix something I think it's ok to give up! New app feature: photo albums. And now we're on Heroku again, live chat works! #100DaysOfCode
+
 1. 
