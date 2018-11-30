@@ -139,4 +139,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 69. Migrating back to Heroku, AWS EB was too hard for us to configure and it kept breaking. After trying 100x to fix something I think it's ok to give up! New app feature: photo albums. And now we're on Heroku again, live chat works! #100DaysOfCode
 
+1. DAY 70. At a TensorFlow.js meetup again with @AiJavaScript! Learning to recognise digits using a 3-layer dense NN and a CNN. #100DaysOfCode
+
 1. 
