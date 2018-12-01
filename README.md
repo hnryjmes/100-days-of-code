@@ -141,4 +141,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 70. At a TensorFlow.js meetup again with @AiJavaScript! Learning to recognise digits using a 3-layer dense NN and a CNN. #100DaysOfCode
 
+1. DAY 71. This week we will be focusing on individual challenges, i.e. it's tech test week. Which language/technologies should I work on? Having a read through the options and trying to work out what my weak points are, what my goals are, etc. #100DaysOfCode
+
 1. 
