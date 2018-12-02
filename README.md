@@ -143,4 +143,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 71. This week we will be focusing on individual challenges, i.e. it's tech test week. Which language/technologies should I work on? Having a read through the options and trying to work out what my weak points are, what my goals are, etc. #100DaysOfCode
 
+1. DAY 72. After two weeks it's nice to be back using JS! Reading the @gatsbyjs docs, doing 'hello world', trying the CLI. It's hyped to be faster than plain HTML/CSS! I'm now excited to try it out in a personal project, rebuilding my photography portfolio site. #100DaysOfCode
+
 1. 
