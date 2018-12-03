@@ -145,4 +145,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 72. After two weeks it's nice to be back using JS! Reading the @gatsbyjs docs, doing 'hello world', trying the CLI. It's hyped to be faster than plain HTML/CSS! I'm now excited to try it out in a personal project, rebuilding my photography portfolio site. #100DaysOfCode
 
+1. DAY 73. Trying to write clean code for a tech test using Node.js. Learning about descriptive, atomic commit messages. #100DaysOfCode
+
 1. 
