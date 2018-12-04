@@ -147,4 +147,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 73. Trying to write clean code for a tech test using Node.js. Learning about descriptive, atomic commit messages. #100DaysOfCode
 
-1. 
+1. DAY 74. Busy day, more tech tests, making code that really tests for edge cases, thinking about algorithmic efficiency. #100DaysOfCode
+
+1.  
