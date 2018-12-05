@@ -149,4 +149,4 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 74. Busy day, more tech tests, making code that really tests for edge cases, thinking about algorithmic efficiency. #100DaysOfCode
 
-1.  
+1. DAY 75. Interview prep. Finished last tech test, reading about big data analytics technologies: Kafka, Cassandra etc., how to use containers i.e. Docker, going to a lunchtime talk at Makers about using Golang in the finance sector. How fun! #100DaysOfCode
