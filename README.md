@@ -153,4 +153,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 76. Job interview. Had my tech test reviewed by a very competent panel of software devs! Luckily they were nice and didn't seem to mind that I made a very silly mathematical error... felt pretty stupid for that. rest of the interview was okay, luckily! #100DaysOfCode
 
-1. 
+1. DAY 77. Very important day today - it's final projects team assignment time! We had an ideation session, we know what ideas are being chosen, now waiting over the weekend for our assignments to come through on Monday morning... #100DaysOfCode
+
+1.
