@@ -155,4 +155,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 77. Very important day today - it's final projects team assignment time! We had an ideation session, we know what ideas are being chosen, now waiting over the weekend for our assignments to come through on Monday morning... #100DaysOfCode
 
-1.
+1. DAY 78. Having a bit of a weekend off before our final projects, by request. Reading about how to solve CartPole (OpenAI gym), Q-learning, and Monte Carlo methods. None of the AI project suggestions got enough support, so this it, for a while anyway.  #100DaysOfCode
+
+1. 
