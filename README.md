@@ -157,4 +157,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 78. Having a bit of a weekend off before our final projects, by request. Reading about how to solve CartPole (OpenAI gym), Q-learning, and Monte Carlo methods. None of the AI project suggestions got enough support, so this it, for a while anyway.  #100DaysOfCode
 
+1. DAY 79. The day before our final projects team assignment. There's a chance I'll be working on a React app, probably a JS app, and in any case, there's a 100% chance I'll need to test-drive it. Learning to use Jest, so far it seems better looking than Jasmine! #100DaysOfCode
+
 1. 
