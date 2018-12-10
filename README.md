@@ -159,4 +159,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 79. The day before our final projects team assignment. There's a chance I'll be working on a React app, probably a JS app, and in any case, there's a 100% chance I'll need to test-drive it. Learning to use Jest, so far it seems better looking than Jasmine! #100DaysOfCode
 
+1. DAY 80. Our final project: a social good app that uses a Google Maps implementation to connect people in need with services that can help them. Doing GitHub setup, CI, learning documentation. #100DaysOfCode
+
 1. 
