@@ -161,4 +161,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 80. Our final project: a social good app that uses a Google Maps implementation to connect people in need with services that can help them. Doing GitHub setup, CI, learning documentation. #100DaysOfCode
 
-1. 
+1. DAY 81. Some problems understanding how to make an API as a Rails project. Doing some testing, experimenting, learning. #100DaysOfCode
+
+1. DAY 82. Scratching heads about authentication, Travis CI and deploying to Heroku. Familiar struggles! #100DaysOfCode
