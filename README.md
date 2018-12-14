@@ -167,4 +167,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 83. End of the first sprint. We have: basic CRUD features on front-end and back-end, with separate CI and deployment. Doing research into using surge.sh for front-end deployment, plus the Google Maps API which is a critical feature of our app. #100DaysOfCode
 
+1. DAY 84. More work with the Google Maps API. Markers and Info Windows. #100DaysOfCode
+
 1. 
