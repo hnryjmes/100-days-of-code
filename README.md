@@ -169,4 +169,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 84. More work with the Google Maps API. Markers and Info Windows. #100DaysOfCode
 
+1. DAY 85. Familiarising myself with various frameworks used to test React. Today: learning Jest and Enzyme. #100DaysOfCode
+
 1. 
