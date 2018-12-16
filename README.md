@@ -171,4 +171,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 85. Familiarising myself with various frameworks used to test React. Today: learning Jest and Enzyme. #100DaysOfCode
 
+1. DAY 86. Learning how to write good React code by trying to fix all our linting errors, one by one. 😅 First, try to fix, then Google it and find out more, then last resort add an exception to the ESLint config... #100DaysOfCode
+
 1. 
