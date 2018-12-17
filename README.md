@@ -173,4 +173,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 86. Learning how to write good React code by trying to fix all our linting errors, one by one. 😅 First, try to fix, then Google it and find out more, then last resort add an exception to the ESLint config... #100DaysOfCode
 
+1. DAY 87. Hours later, our listings can be loaded from our API and appear on our React map as markers! Needless to say, the Google Maps APIs are fun. Also, if anyone knows how data flow between components and asynchronous JavaScript works then do let me know... #100DaysOfCode
+
 1. 
