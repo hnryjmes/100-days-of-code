@@ -175,4 +175,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 87. Hours later, our listings can be loaded from our API and appear on our React map as markers! Needless to say, the Google Maps APIs are fun. Also, if anyone knows how data flow between components and asynchronous JavaScript works then do let me know... #100DaysOfCode
 
+1. DAY 88. If in doubt, read the docs! Refactoring our App.js, functions, props, data flow, by referring to the Tic Tac Toe example on reactjs.org... #100DaysOfCode
+
 1. 
