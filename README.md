@@ -177,4 +177,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 88. If in doubt, read the docs! Refactoring our App.js, functions, props, data flow, by referring to the Tic Tac Toe example on reactjs.org... #100DaysOfCode
 
+1. DAY 89. Learning more Jest, finishing up some UI, getting the search bar working. Last day before feature freeze! #100DaysOfCode
+
 1. 
