@@ -179,4 +179,8 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 89. Learning more Jest, finishing up some UI, getting the search bar working. Last day before feature freeze! #100DaysOfCode
 
+1. DAY 90. More UI, making a practice presentation. The layout even sort of works on mobile! Second-last day of Makers. #100DaysOfCode
+
+1. DAY 91. Last day of Makers. Practice presentations for this evening. I've learned so much about software development and feel ready to apply for a job! #100DaysOfCode
+
 1. 
