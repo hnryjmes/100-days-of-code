@@ -183,4 +183,8 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 91. Last day of Makers. Practice presentations for this evening. I've learned so much about software development and feel ready to apply for a job! #100DaysOfCode
 
+1. DAY 92. Heading home for Christmas. Starting to learn about Java fundamentals, organising my learning for the break. Hoping to come back in January with a basic idea of how to write small programs in Java. #100DaysOfCode
+
+1. DAY 93. Learning Java. Basic OOP. Overloading methods. #100DaysOfCode
+
 1. 
