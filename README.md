@@ -187,4 +187,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 93. Learning Java. Basic OOP. Overloading methods. #100DaysOfCode
 
+1. DAY 94. Primitive data types in Java. Setting up Eclipse (in 2018, I know!) as a Java IDE. Can't wait to go back to IntelliJ and my dark theme, but will follow along for now! #100DaysOfCode
+
 1. 
