@@ -189,4 +189,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 94. Primitive data types in Java. Setting up Eclipse (in 2018, I know!) as a Java IDE. Can't wait to go back to IntelliJ and my dark theme, but will follow along for now! #100DaysOfCode
 
+1. DAY 95. Twelve Days of Christmas... (the code I copied from Rosetta Code didn't initially work, I got a build error that the file should be named TwelveDaysOfChristmas.java 😅). Now, returning to festivities... 🎄https://repl.it/@hnryjmes/TwelveDaysOfChristmas #100DaysOfCode
+
 1. 
