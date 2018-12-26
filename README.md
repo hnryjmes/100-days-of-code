@@ -191,4 +191,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 95. Twelve Days of Christmas... (the code I copied from Rosetta Code didn't initially work, I got a build error that the file should be named TwelveDaysOfChristmas.java 😅). Now, returning to festivities... 🎄https://repl.it/@hnryjmes/TwelveDaysOfChristmas #100DaysOfCode
 
+1. DAY 96. Still recovering from festivities. Not really in the mood to do more on my Java OOP course on Coursera, so just having a look at some HackerRank challenges instead. #100DaysOfCode
+
 1. 
