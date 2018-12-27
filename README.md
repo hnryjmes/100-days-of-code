@@ -193,4 +193,6 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 96. Still recovering from festivities. Not really in the mood to do more on my Java OOP course on Coursera, so just having a look at some HackerRank challenges instead. #100DaysOfCode
 
+1. DAY 97. More on OO Java. Understanding the 'this' keyword. Almost makes me miss JavaScript... #100DaysOfCode
+
 1. 
