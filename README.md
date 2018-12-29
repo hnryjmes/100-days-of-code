@@ -195,4 +195,8 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 97. More on OO Java. Understanding the 'this' keyword. Almost makes me miss JavaScript... #100DaysOfCode
 
+1. DAY 98. Reading the Clean Code book I was gifted recently and doing more Java on HackerRank. #100DaysOfCode
+
+1. DAY 99. Building graphical user interfaces in Java; using PApplet. #100DaysOfCode
+
 1. 
