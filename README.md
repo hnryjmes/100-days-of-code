@@ -199,4 +199,4 @@ Daily log of everything I worked on during the #100DaysOfCode challenge. These a
 
 1. DAY 99. Building graphical user interfaces in Java; using PApplet. #100DaysOfCode
 
-1. 
+1. DAY 100. Final day of the #100DaysOfCode challenge! Reflecting on how far I've come, and how much I appreciate the community for helping and motivating me the whole way through. I learned Ruby, JS, and now I'm starting Java. I'm a better engineer now too. Thank you so much!
